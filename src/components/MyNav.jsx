@@ -5,10 +5,7 @@ export default function MyNav() {
     <nav>
       |&nbsp;
       <Link to={"/"}>Home</Link> |&nbsp;
-      <Link to={"/secondPage"}>Andra sidan</Link> |&nbsp;
-      <Link to={"/myUseState"}>My use state</Link> |&nbsp;
-      <Link to={"/myUseState2"}>Input sida</Link> |&nbsp;
-      <Link to={"/products"}>Produkt lista</Link> |&nbsp;
+      <Link to={"/contact"}>Kontakta oss</Link> |&nbsp;
     </nav>
   </>
 } 
